@@ -4,4 +4,4 @@ image:
   tag: latest
 
 dns:
-  name: 2c453f237373465cba08.australiaeast.aksapp.io
+  name: dns-name
